@@ -1,0 +1,46 @@
+h1{
+    width: 850px;
+    color: rgb(184, 112, 18);
+    background-color: rgb(22, 41, 41);
+}
+.coklat{
+    width: auto;
+    color: brown;
+}
+#bio{
+    width: 150px;
+    background-color: rgb(193, 120, 31);
+    color: antiquewhite;
+}
+.isi-bio{
+    color: whitesmoke;
+    background-color:brown;
+}
+#tentang{
+    width: 150px;
+    background-color: aqua;
+    color: rgb(17, 205, 142);
+}
+.bg-coklat{
+    background-color: brown;
+}
+#isi-tentang{
+    color: whitesmoke;
+}
+#pengalaman{
+    width: 200px;
+    color: blue;
+    background-color: bisque;
+}
+#pendidikan{
+    width: 200px;
+    color: cadetblue;
+    background-color: darkgray;
+}
+#kontak{
+    width: 150px;
+    color: pink;
+    background-color: thistle;
+}
+
+
